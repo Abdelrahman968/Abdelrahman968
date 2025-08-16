@@ -15,7 +15,9 @@
 
 ###
 
+<img align="right" height="150" src="https://media.tenor.com/3GAsTSh04NkAAAAj/chibi-anime-boy.gif"  />
 
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -49,8 +51,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" />
-
-###
-<img src="https://raw.githubusercontent.com/Abdelrahman968/Abdelrahman968/output/pacman-contribution-graph.svg" alt="Pacman animation" />
 
 ###

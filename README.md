@@ -1,55 +1,153 @@
-<h2 align="left">Hi 👋! My name is Abdelrahman Ayman and I'm a MERN Stack, from Egypt</h2>
+<div align="center">
+  
+# 👨‍💻 Abdelrahman Ayman
 
-###
+### Full-Stack MERN Developer | UI/UX Enthusiast | Egypt 🇪🇬
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman968/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:se.abdelrahman968@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Abdelrahman.968)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdelrahman968)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Abdelrahman968&label=Profile%20Views&color=blue&style=for-the-badge)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```javascript
+const abdelrahman = {
+    location: "Egypt 🇪🇬",
+    role: "Full-Stack MERN Developer",
+    currentFocus: ["Advanced React Patterns", "Backend Architecture", "System Design"],
+    interests: ["UI/UX Design", "Machine Learning", "Clean Code"],
+    goal: "Senior Full-Stack Engineer",
+    code: ["JavaScript", "TypeScript", "Python", "C#"],
+    technologies: {
+        frontend: ["React", "HTML5", "CSS3", "Tailwind CSS"],
+        backend: ["Node.js", "Express.js", "MongoDB", "RESTful APIs"],
+        tools: ["Git", "VS Code", "Postman", "npm"]
+    },
+    passion: "Building scalable web applications with great user experiences"
+};
+```
+
+- 🔭 Currently working on **full-stack web applications** with MERN stack
+- 🌱 Learning **Advanced React, System Design & Machine Learning**
+- 💡 Passionate about **clean code, UI/UX, and performance optimization**
+- 🎯 Goal: Contribute to **open-source** and become a **Senior Full-Stack Engineer**
+- 💬 Ask me about **React, Node.js, MongoDB, or Web Development**
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NextJS](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS_v4-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack | GitHub |
+|---------|------------|-----------|---------|
+| **Pestector 🐛** | Intelligent plant disease detection platform leveraging VGG-16 and Vision Transformer (ViT) models | React, Node.js, PyTorch, VGG-16, ViT | [pestector](https://github.com/Abdelrahman968/pestector) |
+| **Nexora 🌐** | Modern social media platform with REST API integration | React, JavaScript, Vite | [nexora-route](https://github.com/Abdelrahman968/nexora-route) |
+| **Adasa 📸** | Modern photography blog platform with galleries and articles | React, Vite, React Router | [adasa-route](https://github.com/Abdelrahman968/adasa-route) |
+| **NutriPlan 🥗** | Responsive nutrition planning app with meal discovery & barcode scanning | Vanilla JavaScript ES6, Tailwind CSS, API Integration | [nutriplan-route](https://github.com/Abdelrahman968/nutriplan-route) |
+| **COSMOS 🚀** | Interactive space exploration dashboard with NASA APOD & rocket launches | Vanilla JavaScript, REST API, CSS | [cosmos-space-dashboard-route](https://github.com/Abdelrahman968/cosmos-space-dashboard-route) |
+| **Portfolio 💼** | Modern Arabic RTL portfolio with dark mode & themes | HTML, JavaScript, CSS | [Portfolio-Route](https://github.com/Abdelrahman968/Portfolio-Route) |
+| **ContactHub 📇** | Modern contact manager - digital phone book | JavaScript, HTML, CSS | [contacthub-route](https://github.com/Abdelrahman968/contacthub-route) |
+| **Task Manager API 📋** | RESTful API for task management with authentication | Node.js, Express, MongoDB | [Task-Manager-Api](https://github.com/Abdelrahman968/Task-Manager-Api) |
+| **Diabetes Prediction 🏥** | Machine learning model for diabetes prediction | Python, Jupyter Notebook, ML | [diabetes-prediction](https://github.com/Abdelrahman968/diabetes-prediction) |
+| **Fake News Detection 📰** | NLP-based fake news detector using NLTK | Python, NLP, NLTK, Jupyter Notebook | [fake-news-detection](https://github.com/Abdelrahman968/fake-news-detection) |
+
+---
+
+## 🧪 What I Can Actually Build
+
+- Full authentication systems (JWT, Roles, Protected Routes)
+- REST APIs with Express & MongoDB
+- React + Next.js modern frontend
+- Responsive UI using Tailwind v4 & Bootstrap
+- Machine Learning models connected to web apps
+- API integrations and dashboards
+
+---
+
+## 🎯 Career Focus
+
+I'm focused on becoming a **Senior Full-Stack Engineer** specialized in:
+- Modern React & Next.js
+- Scalable backend systems
+- AI-powered web applications
+- High-quality UI/UX
+
+---
+
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Abdelrahman968/count.svg?"  />
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
-###
+---
+
+## 📫 Let's Connect
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+💼 **Open to collaborations and exciting opportunities!**
+
+📧 **Email:** [se.abdelrahman968@gmail.com](mailto:se.abdelrahman968@gmail.com)
+
+🔗 **LinkedIn:** [Abdelrahman Ayman](https://www.linkedin.com/in/abdelrahman968/)
+
+💬 **Let's build something amazing together!**
+
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://media.tenor.com/3GAsTSh04NkAAAAj/chibi-anime-boy.gif"  />
+<div align="center">
 
-###
+### ⭐ Show some love by starring some repositories!
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<div align="center">
+  
+**💙 Thanks for visiting!** 
+
+![](https://hit.yhype.me/github/profile?user_id=Abdelrahman968)
+
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" />
-
-###

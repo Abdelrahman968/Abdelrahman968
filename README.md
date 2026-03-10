@@ -68,23 +68,6 @@ const abdelrahman = {
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack | GitHub |
-|---------|------------|-----------|---------|
-| **Pestector 🐛** | Intelligent plant disease detection platform leveraging VGG-16 and Vision Transformer (ViT) models | React, Node.js, PyTorch, VGG-16, ViT | [pestector](https://github.com/Abdelrahman968/pestector) |
-| **Nexora 🌐** | Modern social media platform with REST API integration | React, JavaScript, Vite | [nexora-route](https://github.com/Abdelrahman968/nexora-route) |
-| **Adasa 📸** | Modern photography blog platform with galleries and articles | React, Vite, React Router | [adasa-route](https://github.com/Abdelrahman968/adasa-route) |
-| **NutriPlan 🥗** | Responsive nutrition planning app with meal discovery & barcode scanning | Vanilla JavaScript ES6, Tailwind CSS, API Integration | [nutriplan-route](https://github.com/Abdelrahman968/nutriplan-route) |
-| **COSMOS 🚀** | Interactive space exploration dashboard with NASA APOD & rocket launches | Vanilla JavaScript, REST API, CSS | [cosmos-space-dashboard-route](https://github.com/Abdelrahman968/cosmos-space-dashboard-route) |
-| **Portfolio 💼** | Modern Arabic RTL portfolio with dark mode & themes | HTML, JavaScript, CSS | [Portfolio-Route](https://github.com/Abdelrahman968/Portfolio-Route) |
-| **ContactHub 📇** | Modern contact manager - digital phone book | JavaScript, HTML, CSS | [contacthub-route](https://github.com/Abdelrahman968/contacthub-route) |
-| **Task Manager API 📋** | RESTful API for task management with authentication | Node.js, Express, MongoDB | [Task-Manager-Api](https://github.com/Abdelrahman968/Task-Manager-Api) |
-| **Diabetes Prediction 🏥** | Machine learning model for diabetes prediction | Python, Jupyter Notebook, ML | [diabetes-prediction](https://github.com/Abdelrahman968/diabetes-prediction) |
-| **Fake News Detection 📰** | NLP-based fake news detector using NLTK | Python, NLP, NLTK, Jupyter Notebook | [fake-news-detection](https://github.com/Abdelrahman968/fake-news-detection) |
-
----
-
 ## 🧪 What I Can Actually Build
 
 - Full authentication systems (JWT, Roles, Protected Routes)

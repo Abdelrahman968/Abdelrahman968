@@ -2,7 +2,7 @@
   
 # 👨‍💻 Abdelrahman Ayman
 
-### Full-Stack MERN Developer | UI/UX Enthusiast | Egypt 🇪🇬
+### FrontEnd Developer | UI/UX Enthusiast | Egypt 🇪🇬
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman968/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:se.abdelrahman968@gmail.com)
@@ -20,25 +20,24 @@
 ```javascript
 const abdelrahman = {
     location: "Egypt 🇪🇬",
-    role: "Full-Stack MERN Developer",
+    role: "FrontEnd Developer",
     currentFocus: ["Advanced React Patterns", "Backend Architecture", "System Design"],
     interests: ["UI/UX Design", "Machine Learning", "Clean Code"],
     goal: "Senior Full-Stack Engineer",
     code: ["JavaScript", "TypeScript", "Python", "C#"],
     technologies: {
-        frontend: ["React", "HTML5", "CSS3", "Tailwind CSS"],
-        backend: ["Node.js", "Express.js", "MongoDB", "RESTful APIs"],
+        frontend: ["React", "HTML5", "CSS3", "Tailwind CSS", "Typescript", "NextJS"],
         tools: ["Git", "VS Code", "Postman", "npm"]
     },
     passion: "Building scalable web applications with great user experiences"
 };
 ```
 
-- 🔭 Currently working on **full-stack web applications** with MERN stack
+- 🔭 Currently working on **frontend applications** with nextJS
 - 🌱 Learning **Advanced React, System Design & Machine Learning**
 - 💡 Passionate about **clean code, UI/UX, and performance optimization**
 - 🎯 Goal: Contribute to **open-source** and become a **Senior Full-Stack Engineer**
-- 💬 Ask me about **React, Node.js, MongoDB, or Web Development**
+- 💬 Ask me about **React, NextJS, or Web Development**
 
 ---
 
@@ -53,11 +52,6 @@ const abdelrahman = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS_v4-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -81,7 +75,7 @@ const abdelrahman = {
 
 ## 🎯 Career Focus
 
-I'm focused on becoming a **Senior Full-Stack Engineer** specialized in:
+I'm focused on becoming a **Full-Stack Engineer** specialized in:
 - Modern React & Next.js
 - Scalable backend systems
 - AI-powered web applications

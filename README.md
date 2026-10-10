@@ -1,130 +1,243 @@
+<!--
+  Before publishing:
+  1. Snake: the animation in "GitHub activity" loads from this repo's "output" branch.
+     Add the Platane/snk GitHub Action (github.com/Platane/snk) and run it once, or it will not load.
+  2. Sarahah API: the public repo (main) currently has no CASL dependency and no message module,
+     so the card leaves both out. CASL stays under "Backend knowledge" because you listed it there.
+-->
+
 <div align="center">
-  
-# 👨‍💻 Abdelrahman Ayman
 
-### FrontEnd Developer | UI/UX Enthusiast | Egypt 🇪🇬
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:24283b&height=140&section=header&text=Abdelrahman%20Ayman&fontSize=44&fontColor=c0caf5" width="100%" alt="Abdelrahman Ayman" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman968/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:se.abdelrahman968@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Abdelrahman.968)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdelrahman968)
+### Frontend Developer · React · Next.js · TypeScript
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abdelrahman968&label=Profile%20Views&color=blue&style=for-the-badge)
+Building modern, scalable web applications with a focus on clean architecture, performance, and maintainable code.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-3d59a1?style=flat-square)](https://abdelrahman-portfolio-rho.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-24283b?style=flat-square)](https://www.linkedin.com/in/abdelrahman968/)
+[![GitHub](https://img.shields.io/badge/GitHub-24283b?style=flat-square)](https://github.com/Abdelrahman968)
+[![Email](https://img.shields.io/badge/Email-24283b?style=flat-square)](mailto:se.abdelrahman968@gmail.com)
+
+<sub>Egypt 🇪🇬 · Open to opportunities</sub>
 
 </div>
 
----
+## About
 
-## 🚀 About Me
+<table>
+<tr>
+<td width="55%" valign="top">
+
+I'm a Frontend Developer focused on building modern web applications with React, Next.js, and TypeScript.
+
+I also have good working knowledge of backend development. I work with REST APIs, authentication, and databases, and I'm learning backend architecture and system design.
+
+My long-term goal is to grow into a Full-Stack Engineer using the MERN ecosystem.
+
+</td>
+<td width="45%" valign="top">
 
 ```javascript
 const abdelrahman = {
-    location: "Egypt 🇪🇬",
-    role: "FrontEnd Developer",
-    currentFocus: ["Advanced React Patterns", "Backend Architecture", "System Design"],
-    interests: ["UI/UX Design", "Machine Learning", "Clean Code"],
-    goal: "Senior Full-Stack Engineer",
-    code: ["JavaScript", "TypeScript", "Python", "C#"],
-    technologies: {
-        frontend: ["React", "HTML5", "CSS3", "Tailwind CSS", "Typescript", "NextJS"],
-        tools: ["Git", "VS Code", "Postman", "npm"]
-    },
-    passion: "Building scalable web applications with great user experiences"
+  role: "Frontend Developer",
+  primaryStack: ["React", "Next.js", "TypeScript"],
+  backend: ["Node.js", "Express", "MongoDB"],
+  currentlyLearning: [
+    "Advanced React",
+    "Backend Architecture",
+    "System Design"
+  ],
+  longTermGoal: "Full-Stack Engineer"
 };
 ```
 
-- 🔭 Currently working on **frontend applications** with nextJS
-- 🌱 Learning **Advanced React, System Design & Machine Learning**
-- 💡 Passionate about **clean code, UI/UX, and performance optimization**
-- 🎯 Goal: Contribute to **open-source** and become a **Senior Full-Stack Engineer**
-- 💬 Ask me about **React, NextJS, or Web Development**
+</td>
+</tr>
+</table>
 
----
+## Current focus
 
-## 🛠️ Tech Stack
+<table>
+<tr>
+<th align="left" width="36%">Frontend <sub>improving</sub></th>
+<th align="left" width="36%">Backend <sub>learning</sub></th>
+<th align="left" width="28%">Goal</th>
+</tr>
+<tr>
+<td valign="top">
 
-### Frontend
-![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NextJS](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS_v4-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+- Advanced React patterns
+- Next.js architecture
+- TypeScript and type-safe application logic
+- State management, data fetching, and caching
+- Forms and validation
+- Performance optimization
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+</td>
+<td valign="top">
 
----
+- Backend architecture
+- API design
+- Authentication with access and refresh tokens
+- Authorization
+- Database design
+- System design
 
-## 🧪 What I Can Actually Build
+</td>
+<td valign="top">
 
-- Full authentication systems (JWT, Roles, Protected Routes)
-- REST APIs with Express & MongoDB
-- React + Next.js modern frontend
-- Responsive UI using Tailwind v4 & Bootstrap
-- Machine Learning models connected to web apps
-- API integrations and dashboards
+Full-Stack Engineer using the MERN ecosystem (MongoDB, Express, React, Node.js)
 
----
+</td>
+</tr>
+</table>
 
-## 🎯 Career Focus
+## Tech stack
 
-I'm focused on becoming a **Full-Stack Engineer** specialized in:
-- Modern React & Next.js
-- Scalable backend systems
-- AI-powered web applications
-- High-quality UI/UX
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+**Core**
 
-## 📈 Contribution Graph
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css&theme=dark" alt="React, Next.js, TypeScript, JavaScript, HTML5, CSS3" />
+
+<sub>React · Next.js · TypeScript · JavaScript · HTML5 · CSS3</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**UI & Frontend**
+
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,redux&theme=dark" alt="Tailwind CSS, Bootstrap, Redux Toolkit" />
+
+<sub>Tailwind CSS · Bootstrap · React Router · TanStack Query · React Hook Form · Zod · Axios · Context API · Redux Toolkit</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Node.js, Express, MongoDB, MySQL" />
+
+<sub>Node.js · Express · MongoDB · MySQL · REST APIs</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,pnpm&theme=dark" alt="Git, GitHub, VS Code, Postman, pnpm" />
+
+<sub>Git · GitHub · VS Code · Postman · pnpm</sub>
+
+</td>
+</tr>
+</table>
+
+## Featured projects
+
+<table>
+<tr>
+<th align="left" width="33%">Docs App <sub>Frontend</sub></th>
+<th align="left" width="33%">Sarahah API <sub>Backend</sub></th>
+<th align="left" width="33%">Pestector <sub>AI and machine learning</sub></th>
+</tr>
+<tr>
+<td valign="top">
+
+A modern collaborative document editor built with Next.js.
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=dark" alt="Next.js, React, TypeScript, Tailwind CSS" />
+
+<sub>Next.js · React · TypeScript · Tailwind CSS · Convex · Clerk · Liveblocks · Tiptap</sub>
+
+- Real-time collaborative editing
+- Rich text editing
+- Authentication and authorization
+- Document management
+- Responsive UI
+
+[Live demo](https://docs-app-wheat-two.vercel.app/) · [Repository](https://github.com/Abdelrahman968/docs-app)
+
+</td>
+<td valign="top">
+
+A RESTful backend application built with Node.js and Express.
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Node.js, Express, MongoDB" />
+
+<sub>Node.js · Express · MongoDB · Mongoose · JWT · Zod</sub>
+
+- JWT authentication with access and refresh tokens
+- Role-based authorization
+- User management
+- Request validation with Zod
+- Repository pattern and centralized error handling
+
+[Repository](https://github.com/Abdelrahman968/sarahah-api)
+
+</td>
+<td valign="top">
+
+An AI-powered platform that identifies plant diseases from leaf images and provides treatment information.
+
+<img src="https://skillicons.dev/icons?i=py,fastapi,nodejs&theme=dark" alt="Python, FastAPI, Node.js" />
+
+<sub>Python · FastAPI · Machine Learning · Computer Vision · VGG16 · Vision Transformer · Node.js</sub>
+
+- 38 disease classes from around 87K images
+- VGG16 reached ~0.967 macro F1
+- Vision Transformer reached ~0.9995 validation accuracy
+- Treatment information for identified diseases
+
+[Repository](https://github.com/Abdelrahman968/pestector)
+
+</td>
+</tr>
+</table>
+
+More projects are on my [portfolio](https://abdelrahman-portfolio-rho.vercel.app/en/projects).
+
+## Backend knowledge
+
+Backend is my second area of focus. I build REST APIs with Node.js, Express, and MongoDB.
+
+| Area | What I work with |
+| :-- | :-- |
+| Authentication | `JWT` `Access tokens` `Refresh tokens` |
+| Authorization | `Role-based access control` `CASL` |
+| Validation and security | `Zod validation` `Argon2 password hashing` |
+| API structure | `REST API design` `Repository pattern` `Error handling` |
+
+[Sarahah API](https://github.com/Abdelrahman968/sarahah-api) applies most of these.
+
+## GitHub activity
+
+<p align="center">
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Abdelrahman968&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img height="170" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman968&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdelrahman968/Abdelrahman968/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdelrahman968/Abdelrahman968/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Abdelrahman968/Abdelrahman968/output/github-snake.svg" />
+  </picture>
+</p>
+
+## Let's connect
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+Open to full-time, part-time, internship, freelance, and collaboration opportunities.
 
-</div>
+[Portfolio](https://abdelrahman-portfolio-rho.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/abdelrahman968/) · [GitHub](https://github.com/Abdelrahman968) · [X](https://x.com/Abdelrahman_968) · [Facebook](https://www.facebook.com/Abdelrahman.968)
 
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-💼 **Open to collaborations and exciting opportunities!**
-
-📧 **Email:** [se.abdelrahman968@gmail.com](mailto:se.abdelrahman968@gmail.com)
-
-🔗 **LinkedIn:** [Abdelrahman Ayman](https://www.linkedin.com/in/abdelrahman968/)
-
-💬 **Let's build something amazing together!**
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Show some love by starring some repositories!
-
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-  
-**💙 Thanks for visiting!** 
-
-![](https://hit.yhype.me/github/profile?user_id=Abdelrahman968)
+[se.abdelrahman968@gmail.com](mailto:se.abdelrahman968@gmail.com)
 
 </div>

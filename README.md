@@ -1,123 +1,63 @@
-<!--
-  Before publishing:
-  1. Snake: the animation in "GitHub activity" loads from this repo's "output" branch.
-     Add the Platane/snk GitHub Action (github.com/Platane/snk) and run it once, or it will not load.
-  2. Sarahah API: the public repo (main) currently has no CASL dependency and no message module,
-     so the card leaves both out. CASL stays under "Backend knowledge" because you listed it there.
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:24283b&height=140&section=header&text=Abdelrahman%20Ayman&fontSize=44&fontColor=c0caf5" width="100%" alt="Abdelrahman Ayman" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:24283b&height=160&section=header&text=ABDELRAHMAN%20AYMAN&fontSize=34&fontColor=c0caf5&fontAlignY=42&desc=Frontend%20Developer%20%C2%B7%20React%20%C2%B7%20Next.js%20%C2%B7%20TypeScript&descAlignY=64&descSize=13&descColor=7aa2f7" width="100%" alt="Abdelrahman Ayman" />
 
-### Frontend Developer · React · Next.js · TypeScript
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1500&color=7AA2F7&center=true&vCenter=true&width=460&lines=Clean+architecture+%C2%B7+Performance;Maintainable%2C+scalable+code;Frontend+today%2C+Full-Stack+next" alt="Typing SVG" />
 
-Building modern, scalable web applications with a focus on clean architecture, performance, and maintainable code.
+<br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-3d59a1?style=flat-square)](https://abdelrahman-portfolio-rho.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-24283b?style=flat-square)](https://www.linkedin.com/in/abdelrahman968/)
-[![GitHub](https://img.shields.io/badge/GitHub-24283b?style=flat-square)](https://github.com/Abdelrahman968)
-[![Email](https://img.shields.io/badge/Email-24283b?style=flat-square)](mailto:se.abdelrahman968@gmail.com)
+<a href="https://abdelrahman-portfolio-rho.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-24283b?style=flat-square&logo=vercel&logoColor=7aa2f7" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/abdelrahman968/"><img src="https://img.shields.io/badge/LinkedIn-24283b?style=flat-square&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" /></a>
+<a href="https://github.com/Abdelrahman968"><img src="https://img.shields.io/badge/GitHub-24283b?style=flat-square&logo=github&logoColor=7aa2f7" alt="GitHub" /></a>
+<a href="mailto:se.abdelrahman968@gmail.com"><img src="https://img.shields.io/badge/Email-24283b?style=flat-square&logo=gmail&logoColor=7aa2f7" alt="Email" /></a>
 
-<sub>Egypt 🇪🇬 · Open to opportunities</sub>
+<sub>📍 Egypt &nbsp;·&nbsp; Open to opportunities</sub>
 
 </div>
 
-## About
+---
 
-<table>
-<tr>
-<td width="55%" valign="top">
+> **Currently** &nbsp;—&nbsp; deepening my React and Next.js architecture skills, and studying backend architecture and system design with the goal of becoming a Full-Stack Engineer.
 
-I'm a Frontend Developer focused on building modern web applications with React, Next.js, and TypeScript.
+---
 
-I also have good working knowledge of backend development. I work with REST APIs, authentication, and databases, and I'm learning backend architecture and system design.
+## 01 &nbsp;·&nbsp; About
 
-My long-term goal is to grow into a Full-Stack Engineer using the MERN ecosystem.
+I'm a **Frontend Developer** building modern web applications with **React**, **Next.js**, and **TypeScript**.
 
-</td>
-<td width="45%" valign="top">
+I also work comfortably on the backend side — REST APIs, authentication, and databases — and I'm actively investing in that area.
 
 ```javascript
 const abdelrahman = {
   role: "Frontend Developer",
-  primaryStack: ["React", "Next.js", "TypeScript"],
+  stack: ["React", "Next.js", "TypeScript"],
   backend: ["Node.js", "Express", "MongoDB"],
-  currentlyLearning: [
-    "Advanced React",
-    "Backend Architecture",
-    "System Design"
-  ],
-  longTermGoal: "Full-Stack Engineer"
+  learning: ["Backend Architecture", "System Design"],
+  goal: "Full-Stack Engineer",
 };
 ```
 
-</td>
-</tr>
-</table>
+## 02 &nbsp;·&nbsp; Focus
 
-## Current focus
+**Frontend** &nbsp;<sub>improving</sub>
 
-<table>
-<tr>
-<th align="left" width="36%">Frontend <sub>improving</sub></th>
-<th align="left" width="36%">Backend <sub>learning</sub></th>
-<th align="left" width="28%">Goal</th>
-</tr>
-<tr>
-<td valign="top">
+Advanced React patterns · Next.js architecture · TypeScript & type-safe logic · State management & data fetching · Caching · Forms & validation · Performance optimization
 
-- Advanced React patterns
-- Next.js architecture
-- TypeScript and type-safe application logic
-- State management, data fetching, and caching
-- Forms and validation
-- Performance optimization
+**Backend** &nbsp;<sub>learning</sub>
 
-</td>
-<td valign="top">
+Backend architecture · API design · Authentication with access & refresh tokens · Authorization · Database design · System design
 
-- Backend architecture
-- API design
-- Authentication with access and refresh tokens
-- Authorization
-- Database design
-- System design
-
-</td>
-<td valign="top">
-
-Full-Stack Engineer using the MERN ecosystem (MongoDB, Express, React, Node.js)
-
-</td>
-</tr>
-</table>
-
-## Tech stack
-
-<table>
-<tr>
-<td width="50%" valign="top">
+## 03 &nbsp;·&nbsp; Stack
 
 **Core**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css&theme=dark" alt="React, Next.js, TypeScript, JavaScript, HTML5, CSS3" />
 
-<sub>React · Next.js · TypeScript · JavaScript · HTML5 · CSS3</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**UI & Frontend**
+**UI & State**
 
 <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,redux&theme=dark" alt="Tailwind CSS, Bootstrap, Redux Toolkit" />
 
 <sub>Tailwind CSS · Bootstrap · React Router · TanStack Query · React Hook Form · Zod · Axios · Context API · Redux Toolkit</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
 **Backend**
 
@@ -125,101 +65,91 @@ Full-Stack Engineer using the MERN ecosystem (MongoDB, Express, React, Node.js)
 
 <sub>Node.js · Express · MongoDB · MySQL · REST APIs</sub>
 
-</td>
-<td width="50%" valign="top">
-
 **Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,pnpm&theme=dark" alt="Git, GitHub, VS Code, Postman, pnpm" />
 
 <sub>Git · GitHub · VS Code · Postman · pnpm</sub>
 
-</td>
-</tr>
-</table>
+## 04 &nbsp;·&nbsp; Selected Work
 
-## Featured projects
+> ### Docs App
+> **Frontend** &nbsp;·&nbsp; Collaborative document editor
+>
+> Real-time editing with rich text, auth, and document management — built on Next.js.
+>
+> <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=dark" alt="Next.js, React, TypeScript, Tailwind CSS" />
+>
+> - Real-time collaborative editing
+> - Rich text editing
+> - Authentication & authorization
+> - Document management
+> - Responsive UI
+>
+> <sub>Next.js · React · TypeScript · Tailwind CSS · Convex · Clerk · Liveblocks · Tiptap</sub>
+>
+> [**Live demo**](https://docs-app-wheat-two.vercel.app/) &nbsp;·&nbsp; [Repository](https://github.com/Abdelrahman968/docs-app)
 
-<table>
-<tr>
-<th align="left" width="33%">Docs App <sub>Frontend</sub></th>
-<th align="left" width="33%">Sarahah API <sub>Backend</sub></th>
-<th align="left" width="33%">Pestector <sub>AI and machine learning</sub></th>
-</tr>
-<tr>
-<td valign="top">
+> ### Sarahah API
+> **Backend** &nbsp;·&nbsp; RESTful API
+>
+> A Node.js and Express backend applying production-style patterns for auth, validation, and error handling.
+>
+> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Node.js, Express, MongoDB" />
+>
+> - JWT auth with access & refresh tokens
+> - Role-based authorization
+> - User management
+> - Request validation with Zod
+> - Repository pattern & centralized error handling
+>
+> <sub>Node.js · Express · MongoDB · Mongoose · JWT · Zod</sub>
+>
+> [**Repository**](https://github.com/Abdelrahman968/sarahah-api)
 
-A modern collaborative document editor built with Next.js.
+> ### Pestector
+> **AI & Machine Learning** &nbsp;·&nbsp; Plant disease detection
+>
+> Identifies plant diseases from leaf images and returns treatment information.
+>
+> <img src="https://skillicons.dev/icons?i=py,fastapi,nodejs&theme=dark" alt="Python, FastAPI, Node.js" />
+>
+> - 38 disease classes from ~87K images
+> - VGG16 — ~0.967 macro F1
+> - Vision Transformer — ~0.9995 validation accuracy
+> - Treatment info for identified diseases
+>
+> <sub>Python · FastAPI · Machine Learning · Computer Vision · VGG16 · ViT · Node.js</sub>
+>
+> [**Repository**](https://github.com/Abdelrahman968/pestector)
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=dark" alt="Next.js, React, TypeScript, Tailwind CSS" />
+<sub>More on my [portfolio](https://abdelrahman-portfolio-rho.vercel.app/en/projects).</sub>
 
-<sub>Next.js · React · TypeScript · Tailwind CSS · Convex · Clerk · Liveblocks · Tiptap</sub>
+## 05 &nbsp;·&nbsp; Backend Notes
 
-- Real-time collaborative editing
-- Rich text editing
-- Authentication and authorization
-- Document management
-- Responsive UI
-
-[Live demo](https://docs-app-wheat-two.vercel.app/) · [Repository](https://github.com/Abdelrahman968/docs-app)
-
-</td>
-<td valign="top">
-
-A RESTful backend application built with Node.js and Express.
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Node.js, Express, MongoDB" />
-
-<sub>Node.js · Express · MongoDB · Mongoose · JWT · Zod</sub>
-
-- JWT authentication with access and refresh tokens
-- Role-based authorization
-- User management
-- Request validation with Zod
-- Repository pattern and centralized error handling
-
-[Repository](https://github.com/Abdelrahman968/sarahah-api)
-
-</td>
-<td valign="top">
-
-An AI-powered platform that identifies plant diseases from leaf images and provides treatment information.
-
-<img src="https://skillicons.dev/icons?i=py,fastapi,nodejs&theme=dark" alt="Python, FastAPI, Node.js" />
-
-<sub>Python · FastAPI · Machine Learning · Computer Vision · VGG16 · Vision Transformer · Node.js</sub>
-
-- 38 disease classes from around 87K images
-- VGG16 reached ~0.967 macro F1
-- Vision Transformer reached ~0.9995 validation accuracy
-- Treatment information for identified diseases
-
-[Repository](https://github.com/Abdelrahman968/pestector)
-
-</td>
-</tr>
-</table>
-
-More projects are on my [portfolio](https://abdelrahman-portfolio-rho.vercel.app/en/projects).
-
-## Backend knowledge
-
-Backend is my second area of focus. I build REST APIs with Node.js, Express, and MongoDB.
+My second area of focus. These are the pieces I actually apply when building APIs with Node.js, Express, and MongoDB.
 
 | Area | What I work with |
 | :-- | :-- |
-| Authentication | `JWT` `Access tokens` `Refresh tokens` |
-| Authorization | `Role-based access control` `CASL` |
-| Validation and security | `Zod validation` `Argon2 password hashing` |
-| API structure | `REST API design` `Repository pattern` `Error handling` |
+| **Authentication** | `JWT` `Access tokens` `Refresh tokens` |
+| **Authorization** | `Role-based access control` `CASL` |
+| **Validation & security** | `Zod validation` `Argon2 password hashing` |
+| **API structure** | `REST API design` `Repository pattern` `Error handling` |
 
-[Sarahah API](https://github.com/Abdelrahman968/sarahah-api) applies most of these.
+<sub>[Sarahah API](https://github.com/Abdelrahman968/sarahah-api) puts most of these into practice.</sub>
 
-## GitHub activity
+## 06 &nbsp;·&nbsp; Activity
 
 <p align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Abdelrahman968&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
-  <img height="170" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman968&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Abdelrahman968&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&icon_color=7aa2f7&title_color=7aa2f7&text_color=c0caf5" />
+</p>
+
+<p align="center">
+  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman968&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=7aa2f7&text_color=c0caf5" />
+</p>
+
+<p align="center">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Abdelrahman968&theme=tokyonight&hide_border=true&border_radius=10&background=1a1b27&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7" />
 </p>
 
 <p align="center">
@@ -230,14 +160,22 @@ Backend is my second area of focus. I build REST APIs with Node.js, Express, and
   </picture>
 </p>
 
-## Let's connect
+---
 
 <div align="center">
 
-Open to full-time, part-time, internship, freelance, and collaboration opportunities.
+### 07 &nbsp;·&nbsp; Let's Connect
 
-[Portfolio](https://abdelrahman-portfolio-rho.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/abdelrahman968/) · [GitHub](https://github.com/Abdelrahman968) · [X](https://x.com/Abdelrahman_968) · [Facebook](https://www.facebook.com/Abdelrahman.968)
+Open to **full-time**, **part-time**, **internship**, **freelance**, and **collaboration** opportunities.
 
-[se.abdelrahman968@gmail.com](mailto:se.abdelrahman968@gmail.com)
+<a href="https://abdelrahman-portfolio-rho.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-24283b?style=flat-square&logo=vercel&logoColor=7aa2f7" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/abdelrahman968/"><img src="https://img.shields.io/badge/LinkedIn-24283b?style=flat-square&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" /></a>
+<a href="https://github.com/Abdelrahman968"><img src="https://img.shields.io/badge/GitHub-24283b?style=flat-square&logo=github&logoColor=7aa2f7" alt="GitHub" /></a>
+<a href="https://x.com/Abdelrahman_968"><img src="https://img.shields.io/badge/X-24283b?style=flat-square&logo=x&logoColor=7aa2f7" alt="X" /></a>
+<a href="https://www.facebook.com/Abdelrahman.968"><img src="https://img.shields.io/badge/Facebook-24283b?style=flat-square&logo=facebook&logoColor=7aa2f7" alt="Facebook" /></a>
+
+[**se.abdelrahman968@gmail.com**](mailto:se.abdelrahman968@gmail.com)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24283b,100:1a1b27&height=80&section=footer" width="100%" alt="" />
